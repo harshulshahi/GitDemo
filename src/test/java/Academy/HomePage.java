@@ -44,6 +44,8 @@ public class HomePage extends base{
 		
 		lp.getLogin().click();
 		
+		System.out.println("just to makesure if git is update");
+		System.out.println("just to makesure if git is update");
 		}
 
 	@AfterTest
