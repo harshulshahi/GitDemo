@@ -46,6 +46,11 @@ public class validateTitle extends base{
 	
 		
 		}
+	@Test
+	public void hello()
+	{
+		System.out.println("hello namesty kasa kai");
+	}
 	@AfterTest
 	public void teardown()
 	{

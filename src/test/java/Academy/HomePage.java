@@ -58,6 +58,11 @@ public class HomePage extends base{
 		driver=null;
 		
 	}
+	@Test
+	public void hello()
+	{
+		System.out.println("hello namesty kasa kai");
+	}
 
 	
 	@DataProvider
