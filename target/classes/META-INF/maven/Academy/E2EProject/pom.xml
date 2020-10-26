@@ -26,7 +26,8 @@
         
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>testngCucumber.xml</suiteXmlFile>
+            
           </suiteXmlFiles>
         </configuration>
       </plugin>
